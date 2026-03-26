@@ -20,9 +20,7 @@ def value_printer(r,sections):
 
 
 print("Enter radius ")
-#r= int(input())
-r=5
+r= int(input())
 print("Enter sections")
-#sections = int(input())
-sections=12
+sections = int(input())
 value_printer(r,sections)
